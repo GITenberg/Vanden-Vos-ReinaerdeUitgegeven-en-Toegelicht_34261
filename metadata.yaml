@@ -1,0 +1,27 @@
+_repo: Vanden-Vos-ReinaerdeUitgegeven-en-Toegelicht_34261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jonckbloet, W. J. A. (Willem Jozef Andries)
+    alias: Jonckbloet, Willem Jozef Andries
+    birthdate: 1817
+    deathdate: 1885
+    gutenberg_agent_id: '36909'
+    url: http://www.gutenberg.org/2009/agents/36909
+description: ''
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34261'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Reynard the Fox (Legendary character) -- Poetry'
+title: 'Vanden Vos Reinaerde: Uitgegeven en Toegelicht'
+url: http://www.gutenberg.org/ebooks/34261
